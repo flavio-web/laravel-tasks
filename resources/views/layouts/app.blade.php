@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                     APP Tareas: Flavio Román-0704713601|Fabian Santín-0704311216
                 </a>
             </div>
 
